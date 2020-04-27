@@ -10,3 +10,6 @@ Introduction to the C langugage. The problems were about griding algoritmhs and 
 
 ## Week 2
 Knowing about arrays and stuf. The problems were about cryptography and arrays. Also learn about command line arguments in C (argc and argv)
+
+# Week 3
+Alogrithms. Some vote problems. And learn the notation "O, Omega and Teta" Ex: O(n), O(n^2)
