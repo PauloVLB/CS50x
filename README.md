@@ -7,3 +7,6 @@ Made a initial project using Scratch. It's a simple game where you need to run f
 
 ## Week 1 
 Introduction to the C langugage. The problems were about griding algoritmhs and some logic. 
+
+## Week 2
+Knowing about arrays and stuf. The problems were about cryptography and arrays. Also learn about command line arguments in C (argc and argv)
